@@ -1,1 +1,1 @@
-Harmonik sayıların ortalamasını hesaplayan uygulama
+Dizideki harmonik sayıların ortalamasını hesaplayan uygulama
